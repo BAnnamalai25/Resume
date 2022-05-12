@@ -1,0 +1,223 @@
+body{
+  font-family: "Roboto","Helvetica Neue",'Montserrat',sans-serif;
+  background-color: #022539;
+  color: rgb(255 249 255 / 55%);
+}
+/* .home{
+  margin: 113px;
+} */
+h1{
+  color: #fd7e14;
+  font-size: 48px;
+  font-weight: bold;
+  font-family: sans-serif,"Segoe UI","Roboto","Helvetica Neue";
+
+}
+.about{
+  font-size: 18px;
+}
+.role{
+  padding: 0px 0px 5% 15%;
+}
+.myrole{
+  padding-top: 8px;
+}
+.define{
+  padding-top: 40px;
+  text-align: justify;
+}
+.downloadButton{
+  padding-top: 15px;
+}
+hr{
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+  /* color: #a6a6a6; */
+  height: 1px;
+}
+.subTopic{
+  /* color: #fd7e14; */
+  color: #fb991c;
+  font-size: 24px;
+  font-weight: 545;
+  font-family: sans-serif,"Segoe UI","Roboto","Helvetica Neue";
+}
+.container_one{
+  padding: 3% 15% 0px;
+}
+.title-img{
+  width: 50%;
+  margin-left: 75px;
+  /*border-radius:35% 60px; */
+}
+.socialmedia{
+  padding-top: 15px;
+  padding-left: 300px;
+}
+.container_about{
+  padding: 3% 15% ;
+}
+.about{
+  padding-top: 25px;
+  /* color: #a6a6a6; */
+  /* font-weight: 200; */
+  font-stretch: normal;
+  /* font-size: 18px; */
+  /* line-height: 20px; */
+  font-family: "Roboto","Helvetica Neue",sans-serif;
+}
+/* navigation bar */
+.navbar-brand{
+  font-family: ubuntu;
+  font-size: 3rem;
+  font-weight: bold;
+}
+.navbar{
+  padding-bottom: 4rem;
+}
+
+.nav-link{
+  /* font-size: 1.2rem; */
+}
+.topnav{
+  padding-left: 10px;
+}
+.navbar-nav{
+  margin-left: Auto;
+  margin-right: 20px;
+}
+
+/* container tool section */
+.container_tool{
+  padding: 3% 15%;
+}
+.container_dev{
+  padding: 3% 15%;
+}
+.toolslist{
+  padding-top: 25px;
+}
+.toolName{
+  font-size: 20px;
+}
+/* skill section */
+.container_skill{
+  Padding: 3% 15%;
+}
+.skillList{
+  padding-top: 20px;
+  padding-left: 5px;
+}
+.skillspace{
+   padding-left: 30px;
+}
+
+
+/* footer section */
+.bottomnav{
+  color: rgb(255 249 255 / 55%);
+}
+.container_foot{
+  padding: 3% 0;
+}
+
+/* educ page */
+/* education section */
+.topic{
+  color: #fd7e14;
+}
+.subtopic2{
+  padding-top: 20px;
+}
+.container_grad{
+  padding: 3% 15%;
+}
+.educationDetails{
+  padding-top: 25px;
+  padding-left: 17%;
+}
+.grad{
+  padding-left: 5%;
+}
+/* .educimg{
+  padding-left: 30%;
+}
+.educdescription{
+  padding-left: 0px;
+  padding-bottom: 25px;
+} */
+.carousel-item{
+  padding: 2% 15% 6%;
+}
+.carousel-control-prev{
+  padding-right: 7%;
+}
+.carousel-control-next{
+  padding-left: 7%;
+}
+/* certificate section */
+.container_cert{
+  padding: 3% 15%;
+}
+.cert{
+  padding-left: 4.7%;
+}
+.certificateDetails{
+  padding-top: 30px;
+  padding-left: 27%;
+}
+/* .certimg{
+  padding-left: 36%;
+}
+.certdescription{
+  padding-left: 0px;
+} */
+/* footer  section */
+.navbar-nav{
+  padding-left: 30%;
+}
+
+/* contact page */
+/* mail section */
+.container_mail{
+  padding: 3% 15%;
+}
+.container_social{
+  padding: 3% 15%;
+}
+.mailicon{
+  padding-right: 15px;
+  color: #ffff;
+}
+.text{
+  font-size: 18px;
+}
+.confoot{
+  padding-left: 10px;
+  /* margin-left: 0%; */
+
+}
+.content{
+  padding-top: 25px;
+}
+.consocicon{
+  padding-top: 25px;
+}
+.conicon{
+  padding-left: 22%;
+}
+/* portfolio page */
+.image{
+  width: 100%;
+  border-radius:8px;
+}
+.container_ux{
+  padding: 0% 15% 3%;
+}
+.uxui{
+  padding: 3% 0% 0%;
+}
+.seemore{
+  padding: 0% 15% 0% 79% ;
+}
